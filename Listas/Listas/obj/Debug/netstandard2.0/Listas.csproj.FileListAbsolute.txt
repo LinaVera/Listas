@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\bin\Debug\netstandard2.0\Listas.deps.json
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\bin\Debug\netstandard2.0\Listas.dll
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\bin\Debug\netstandard2.0\Listas.pdb
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\Listas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\Listas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\Listas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\Listas.dll
+C:\Users\Usuario\source\repos\Listas\Listas\Listas\obj\Debug\netstandard2.0\Listas.pdb
